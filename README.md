@@ -1,5 +1,4 @@
-- 👋 Olá, sou @VGSx4
-- 👀 Tenho interesse em melhorar cada dia
-- 🌱 Atualmente estou aprendendo a programação
-- 💞️ Estou procurando colaborar em tudo que eu posso
-- 📫 Como chegar até mim: vem de jatinho
+- NOME: Victor Gabriel S.
+- COLEGÍO: Santa Maria Goretti
+- SÉRIE: 1 ano A 
+
